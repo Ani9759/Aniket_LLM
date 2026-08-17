@@ -6,7 +6,7 @@ import streamlit as st
 # Configuration
 # -----------------------------------------
 
-API_URL = "http://127.0.0.1:8000/research"
+API_URL = "https://urban-possibility-club-scale.trycloudflare.com/research"
 
 RESEARCH_URL = f"{API_URL}/research"
 
